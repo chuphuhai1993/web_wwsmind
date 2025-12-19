@@ -11,7 +11,7 @@ const Hero = () => (
                     Creations for Billions
                 </h1>
                 <p className="max-w-xl mx-auto">
-                    wwwsmind is a company that invests in and develops mobile apps, games, and AI apps with over 1 billion downloads globally.
+                    wwsmind is a company that invests in and develops mobile apps, games, and AI apps with over 1 billion downloads globally.
                 </p>
                 <div className="flex items-center justify-center gap-x-3 font-medium text-sm">
                     <NavLink

@@ -14,7 +14,7 @@ export default function GetStarted() {
   return (
     <>
       <Head>
-        <title>Contact us - wwwsmind</title>
+        <title>Contact us - wwsmind</title>
       </Head>
       <div className='pt-28 pb-12'>
         <div className='custom-screen text-gray-600'>
@@ -32,11 +32,11 @@ export default function GetStarted() {
               <p className='mt-3'>
                 Email: {" "}
                 <a
-                  href='mailto:connect@wwwsmind.com'
+                  href='mailto:connect@wwsmind.com'
                   target='_blank'
                   rel='noreferrer'
                   className='text-indigo-600 hover:text-indigo-400 duration-150'>
-                  connect@wwwsmind.com.
+                  connect@wwsmind.com.
                 </a>
               </p>
               <p className='mt-3'>

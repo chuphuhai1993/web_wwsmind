@@ -8,7 +8,7 @@ const Brand = () => (
             src={logo}
             width={120}
             height={50}
-            alt="wwwsmind logo"
+            alt="wwsmind logo"
         />
     </Link>
 )

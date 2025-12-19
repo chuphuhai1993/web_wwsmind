@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/web_wwwsmind',
-  assetPrefix: '/web_wwwsmind',
+  basePath: '/web_wwsmind',
+  assetPrefix: '/web_wwsmind',
   trailingSlash: true,
 }
 

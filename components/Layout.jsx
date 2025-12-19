@@ -6,11 +6,11 @@ const Layout = ({ children }) => {
     return (
         <>
             <Head>
-                <title>wwwsmind</title>
-                <meta name='description' content='wwwsmind making it simple for you to build and grow your SaaS applications, or any business idea' />
+                <title>wwsmind</title>
+                <meta name='description' content='wwsmind making it simple for you to build and grow your SaaS applications, or any business idea' />
                 <meta name='viewport' content='width=device-width, initial-scale=1' />
-                <link rel='icon' type='image/png' href='/web_wwwsmind/favicon.png' />
-                <link rel='apple-touch-icon' href='/web_wwwsmind/favicon.png' />
+                <link rel='icon' type='image/png' href='/web_wwsmind/favicon.png' />
+                <link rel='apple-touch-icon' href='/web_wwsmind/favicon.png' />
             </Head>
             <Navbar />
             <main>{children}</main>
