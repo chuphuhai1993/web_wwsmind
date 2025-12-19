@@ -11,8 +11,8 @@ const Navbar = () => {
 
     const navigation = [
         { title: "Features", path: "#features" },
-        { title: "Our toolkit", path: "#toolkit" },
-        { title: "Testimonials", path: "#testimonials" },
+        { title: "Our work", path: "#toolkit" },
+        { title: "Reviews", path: "#testimonials" },
     ]
 
     useEffect(() => {
