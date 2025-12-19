@@ -6,6 +6,7 @@ const nextConfig = {
   },
   basePath: '/web_wwwsmind',
   assetPrefix: '/web_wwwsmind',
+  trailingSlash: true,
 }
 
 module.exports = nextConfig
